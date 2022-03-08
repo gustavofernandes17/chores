@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">chores</string>
+    <string name="email_label">Email</string>
+    <string name="password_label">Senha</string>
+    <string name="create_account_label">Não possui uma conta? crie uma!</string>
+    <string name="on_submit_enter_button">Entrar</string>
+    <string name="all_tasks">Tarefas</string>
+</resources>
